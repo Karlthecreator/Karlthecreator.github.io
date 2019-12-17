@@ -1,0 +1,23 @@
+.btn btn-lg btn-black{
+    background-color:light gray;
+    color:white;
+}
+#projects {
+    font-family:'Baskervville', serif; 
+}
+.headshot {
+    width:350px;
+    height:450px;
+}
+.submit-button{
+    background-color:white;
+}
+.contact-me{
+    background-color:white;
+}
+#contact{
+    font-family:'Baskerville', serif;
+}
+.container{
+    background-color:tan;
+}

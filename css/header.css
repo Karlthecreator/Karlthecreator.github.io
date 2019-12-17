@@ -1,0 +1,22 @@
+.wrapper {
+    background: url('../assets/fogtree.jpeg');
+    background-size: cover;
+    color:black;
+    height: 75vh;
+    background-position-y: center;
+    font-family: 'Baskervville', serif;
+
+}
+
+.title {
+    font-size: 30px;
+    color: white;
+   text-align: center;
+   padding-top: 0;
+}
+.name{
+    color: white;
+    text-align: center;
+    padding-top: 18%;
+    font-size: 50px; 
+}
