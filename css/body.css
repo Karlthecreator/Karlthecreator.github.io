@@ -3,7 +3,8 @@
     color:white;
 }
 #projects {
-    font-family:'Baskervville', serif; 
+    font-family:'Abril Fatface', cursive;
+    height:55px;
 }
 .headshot {
     width:auto;
@@ -11,17 +12,17 @@
 }
 .submit-button{
     background-color:white;
-    margin-bottom:20px;
+    
     
 }
 .contact-me{
     background-color:white;
 }
 #contact{
-    font-family:'Baskerville', serif;
+    font-family:'Abril Fatface', cursive;
 }
 .container{
-    background-color:tan;
+    background-color:#ffb617;
 
 }
 .row{
@@ -37,7 +38,7 @@
     display:flex;
     justify-content: space-evenly;
     text-align: center;
-    font-family:'Baskerville', serif;
+    font-family:'Abril Fatface', cursive;
     margin:10px;
     
     
@@ -53,8 +54,8 @@
 }
 .acc{
     text-align: center;
-    background-color:lightgray;
-    font-family:'Baskerville', serif;
+    background-color:#ffb617;
+    font-family:'Abril Fatface', cursive;
     margin-bottom:0px;
     
 }
@@ -69,5 +70,20 @@
     height:190px;
     border-radius: 75px;
     margin-top:5px;
+}
+
+#aboutMe{
+    font-family: 'Abril Fatface', cursive;
+    background-color:tan;
+}
+.col-4{
+    font-size: 18px;
+}
+.footer{
+    background-color:tan;
+}
+.text-center {
+    padding-bottom:25px;
+    
 }
 
