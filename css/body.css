@@ -6,11 +6,13 @@
     font-family:'Baskervville', serif; 
 }
 .headshot {
-    width:350px;
+    width:auto;
     height:450px;
 }
 .submit-button{
     background-color:white;
+    margin-bottom:20px;
+    
 }
 .contact-me{
     background-color:white;
@@ -20,4 +22,52 @@
 }
 .container{
     background-color:tan;
+
 }
+.row{
+    display:flex;
+    justify-content: center;
+    background-color:black;
+    color:white;
+    
+}
+.column{
+    width:50%;
+    height:200px;
+    display:flex;
+    justify-content: space-evenly;
+    text-align: center;
+    font-family:'Baskerville', serif;
+    margin:10px;
+    
+    
+    
+
+}
+.kirby{
+    width:250px;
+    height:190px;
+    border-radius:75px;
+    margin-top:5px;
+    
+}
+.acc{
+    text-align: center;
+    background-color:lightgray;
+    font-family:'Baskerville', serif;
+    margin-bottom:0px;
+    
+}
+.API{
+    width:250px;
+    height:190px;
+    border-radius: 75px;
+    margin-top:5px;
+}
+.static{
+    width:250px;
+    height:190px;
+    border-radius: 75px;
+    margin-top:5px;
+}
+
